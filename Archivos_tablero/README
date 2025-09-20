@@ -1,0 +1,10 @@
+# Archivos tablero
+
+En esta carpeta se guarda el tablero y los datos requeridos para su implementación
+
+## Contenido
+
+- **Tablero**: archivo editable Adopción_digital (.pbix) 
+- **colombia-dptos**: archivo TopoJson con información de departamentos de Colombia (se utiliza en el mapa)
+-- **colombia-municipios**: archivo TopoJson con información de departamentos de Colombia (se podróa utilizar en el mapa si se quiere ver la información por municipios)
+-- **df_lab**: archivo csv que se carga al tablero, es el resultado del modelo
