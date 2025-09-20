@@ -1,0 +1,11 @@
+# Experimentos
+
+En esta carpeta se recopilan todas las implementaciones realizadas para el análisis de clustering, con el fin de evaluar diferentes algoritmos y comparar su desempeño en el contexto del proyecto.  
+
+## Contenido
+
+- **K-Means**: implementación, calibración de hiperparámetros (número de clústers, pesos, etc.) y evaluación de métricas.  
+- **K-Medoids**: aplicación del modelo, ajuste de parámetros y análisis de resultados.  
+- **DBSCAN**: experimentación con valores de `eps` y `min_samples`, identificando patrones en los datos.  
+- **Clustering jerárquico**: construcción de dendrogramas, selección del número de clústers y validación de la segmentación.  
+
